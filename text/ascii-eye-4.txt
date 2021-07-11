@@ -1,0 +1,32 @@
+An eye, by F.L. Catalyst :
+
+                    Visual   Anterior
+                      axis   pole    Anterior
+                         \\  |       chamber
+                          \..|..    /
+      Conjunctiva     .:``\\'|'```/'.
+                |  ,:''..'"\"|""/'..`<-----Cornea
+               ..,:',;'____\\|  ____`;.`:...
+         Iris----->;-~~~~..-\+--..~~~~-;./'~~`Ciliary body
+             ,;'.:;;;==(Lens X    `)=|;;;;. `; `\
+Medial   ,;''  ;'|'''| `:..  |\ ..;' |`````:. `;|,
+rectus->'    Ciliary |    ```+\\'    |      `:./' `:.
+    .;',;'  .;muscle |       | \    Posterior :.  :;.`:
+     ,','  ;;        Lens    | \\   chamber    ;;  ;.` `
+      ;'  ;:         ligament|  \              ;;   ;
+      ;   ;:                 |  \\             ;;   ;
+      ;   ;:       Vitreous  |   \             ;<-------Retina
+      ;   ;:.                |   \\            ;;   ;
+      `;   `:.               |    \           ;';<------Choroid
+       `;   `:.   Optic      |    \\         ;','  ;
+        `;   `:`.   disk     |     \        ;';' <------Sclera
+         `;   `: :./         |     \\Fovea,';'   ;'
+          `,    `.;..,,      |      \| .'','   .;'
+            `;.  .:::: ```...|...'''\/'.:'    ;'
+         Dura,' .:::::`,,,,..|..,,,,'''   ,;''
+            ;  /::::::     ''|''      ..;''
+              /Optic:| ;,....|....,,;'''
+               nerve:| ;   ``+''
+                             |
+                             Posterior
+                             pole                -Catalyst-
